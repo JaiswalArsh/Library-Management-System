@@ -135,22 +135,6 @@ A **console-based Java application** designed to manage core library operations 
 
 ---
 
-## 📁 Project Structure
-
-LMS/
-├── .vscode/
-│ └── settings.json # VS Code project settings
-├── lib/
-│ └── mysql-connector-java-x.x.x.jar # JDBC driver
-├── src/
-│ ├── BookManagement.java # Book-related operations
-│ ├── BorrowReturn.java # Borrow/return functionality
-│ ├── createdb.java # Create 'library' DB
-│ ├── DatabaseSetup.java # Table creation logic
-│ └── LibraryManagementSystem.java# Entry point and UI
-
----
-
 ## 🌱 Future Enhancements
 
 - 🔳 **GUI Interface**: Transition from console to JavaFX or Swing.
